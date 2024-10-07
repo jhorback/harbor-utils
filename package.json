@@ -36,7 +36,7 @@
     "@domx/statecontroller": "0.1.0",
     "@vanillawc/wc-markdown": "^1.6.10",
     "immer": "9.0.16",
-    "lit": "2.4.1"
+    "lit": "3.2.1"
   },
   "devDependencies": {
     "@types/jest": "29.2.3",
